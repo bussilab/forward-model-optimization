@@ -1,6 +1,6 @@
 # forward-model-optimization
 
-Supplementaries for 'Refinement of structural ensembles using experimental data and flexible forward models'
+Supplementaries for 'Refinement of molecular dynamics ensembles using experimental data and flexible forward models'
 
 Directory contains:
 - SI figures 1 and 2
