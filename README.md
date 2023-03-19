@@ -7,4 +7,4 @@ Directory contains:
 - All figures of the main text 
 - All analysis scripts needed to reproduce results published in this study 
 
-MD trajectories for the systems AAAA, CAAU, GACC, CCCC, UUUU, UCAAUC and UCUCGU will be provided at https://zenodo.org/record/7746293.
+MD trajectories for the systems AAAA, CAAU, GACC, CCCC, UUUU, UCAAUC and UCUCGU are available at https://zenodo.org/record/7746293.
