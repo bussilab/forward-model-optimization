@@ -7,4 +7,5 @@ Directory contains:
 - All figures of the main text 
 - All analysis scripts needed to reproduce results published in this study 
 
-MD trajectories for the systems AAAA, CAAU, GACC, CCCC, UUUU, UCAAUC and UCUCGU are available at https://zenodo.org/record/7746293.
+MD trajectories (*traj.xtc) and experimental data (*exp.dat) for the systems AAAA, CAAU, GACC, CCCC, UUUU, UCAAUC and UCUCGU are available at https://zenodo.org/record/7746293.
+ExperimentalData_NMRStudies.md is listing the studies in which the experimental data were obtained for the respective system.
